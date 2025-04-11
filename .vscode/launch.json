@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "request": "launch",
+      "name": "Launch App",
+      "mainClass": "com.foresys.app2.App2Application",
+      "projectName": "app2"
+    }
+  ]
+}
